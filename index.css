@@ -1,0 +1,17 @@
+body{
+    background-image: linear-gradient(to bottom, #eb8224, #ff8a70, #fbddf8, #e5e5ff, #ceedff,  #00e685, #0ad800);
+    height:100vh
+    
+    
+}
+h1{
+    color:rgb(119, 11, 129);
+    font-weight: bolder;
+    font-size:100px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:90vh;
+    
+
+}
